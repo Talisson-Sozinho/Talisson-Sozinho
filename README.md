@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a Full Stack Developer
 
 - 🔭 I’m not currently working
 - 🌱 I’m currently learning Java
