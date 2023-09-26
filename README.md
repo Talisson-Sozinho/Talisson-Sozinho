@@ -7,6 +7,7 @@
   - Linkedin: [Talisson Lutero Sozinho](https://www.linkedin.com/in/talisson-sozinho/)
   - Whatsapp: +55 27 99528-3968
   - E-mail: talissonlutero8080@gmail.com
+  - CV: [PDF](https://smallpdf.com/pt/file#s=b98ad2c1-1425-4682-bf7d-15bc8163a219)
   ---
 
 **Stacks:**
