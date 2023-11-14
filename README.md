@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm a Full Stack Developer
 
-- 🔭 I’m not currently working
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for a job
 - 📫 How to reach me: 
   - Linkedin: [Talisson Lutero Sozinho](https://www.linkedin.com/in/talisson-sozinho/)
   - Whatsapp: +55 27 99528-3968
